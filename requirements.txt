@@ -23,7 +23,7 @@ pyOpenSSL==21.0.0
 PyPDF2==1.27.5
 python-dateutil==2.8.2
 pytz==2021.3
-pywin32==228
+pywin32==301
 pywin32-ctypes==0.2.0
 pywinauto==0.6.8
 requests==2.26.0
